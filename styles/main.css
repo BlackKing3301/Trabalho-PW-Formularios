@@ -1,6 +1,10 @@
 body{
-    background-image: url("https://imagenes.universia.net/gc/net/images/educacion/l/li/liv/livros-gratis-william-shakespeare-noticias-jpg.jpg");
-    width: 2000px; height: 2000px; aspect-ratio: auto 2000 / 2000;
+    background-image: url(https://i.pinimg.com/736x/13/e6/68/13e668582d7bff8e316b784844105cbf.jpg);
+    width: 1300px; height: 2036px; 
+    background-position-x: 91%;
+    background-position-y: 724%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 form{
@@ -21,6 +25,7 @@ button{
     border-radius: 8px;
     padding-top: 7px;
     padding-bottom: 7px;
+    text-align: center;
 }
 
 h1{
@@ -30,7 +35,7 @@ h1{
 }
 
 h2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:mediumblue
 }
 
@@ -40,7 +45,7 @@ h3{
 }
 
 h4{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: red;
     text-align:center
 }
@@ -51,4 +56,8 @@ div.a {
 
 .elemento-sozinho{
     text-align: center;
+}
+
+div.align{
+    padding-left: 300px;
 }
